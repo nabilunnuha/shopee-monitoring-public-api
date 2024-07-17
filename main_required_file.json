@@ -6,12 +6,6 @@
     "data_type": null
   },
   {
-    "path": "./data/driver",
-    "type": "folder",
-    "data": null,
-    "data_type": null
-  },
-  {
     "path": "./log",
     "type": "folder",
     "data": null,
