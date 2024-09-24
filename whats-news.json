@@ -4,5 +4,34 @@
         "changes": [
             "Release"
         ]
+    },
+    {
+        "version": "1.0.2",
+        "changes": [
+            "Fix login"
+        ]
+    },
+    {
+        "version": "1.0.4",
+        "changes": [
+            "Fix orders",
+            "Fix perubahan api shopee"
+        ]
+    },
+    {
+        "version": "1.0.5",
+        "changes": [
+            "Re-release",
+            "Perubahan Tampilan"
+        ]
+    },
+    {
+        "version": "1.0.6",
+        "changes": [
+            "Change logging",
+            "Change icon",
+            "Fix status order",
+            "Display improvements"
+        ]
     }
 ]
