@@ -33,5 +33,12 @@
             "Fix status order",
             "Display improvements"
         ]
+    },
+    {
+        "version": "1.0.7",
+        "changes": [
+            "Add performance toko",
+            "Add driver updater"
+        ]
     }
 ]
