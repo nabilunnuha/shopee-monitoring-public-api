@@ -35,10 +35,11 @@
         ]
     },
     {
-        "version": "1.0.7",
+        "version": "1.0.8",
         "changes": [
             "Add performance toko",
-            "Add driver updater"
+            "Add driver updater",
+            "Fix validating license error"
         ]
     }
 ]
