@@ -41,5 +41,13 @@
             "Add driver updater",
             "Fix validating license error"
         ]
+    },
+    {
+        "version": "1.1.0",
+        "changes": [
+            "Add performance toko mode in setting",
+            "Add cache request",
+            "Fix reconnect"
+        ]
     }
 ]
